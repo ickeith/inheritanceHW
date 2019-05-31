@@ -1,0 +1,11 @@
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\bin\Debug\netcoreapp2.2\inheritanceHW2019.deps.json
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\bin\Debug\netcoreapp2.2\inheritanceHW2019.runtimeconfig.json
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\bin\Debug\netcoreapp2.2\inheritanceHW2019.runtimeconfig.dev.json
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\bin\Debug\netcoreapp2.2\inheritanceHW2019.dll
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\bin\Debug\netcoreapp2.2\inheritanceHW2019.pdb
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\obj\Debug\netcoreapp2.2\inheritanceHW2019.csprojAssemblyReference.cache
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\obj\Debug\netcoreapp2.2\inheritanceHW2019.csproj.CoreCompileInputs.cache
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\obj\Debug\netcoreapp2.2\inheritanceHW2019.AssemblyInfoInputs.cache
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\obj\Debug\netcoreapp2.2\inheritanceHW2019.AssemblyInfo.cs
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\obj\Debug\netcoreapp2.2\inheritanceHW2019.dll
+C:\Users\Keith Summers\source\repos\inheritanceHW2019\inheritanceHW2019\obj\Debug\netcoreapp2.2\inheritanceHW2019.pdb
